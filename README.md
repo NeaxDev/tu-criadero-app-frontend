@@ -1,6 +1,6 @@
 # tu-criadero-app-frontend
 
-Aplicacion web en desarrollo
+Aplicacion web con React.js en desarrollo
 
 Para ejecutarlo se debe clonar primero el proyecto y luego instalar las dependencias con npm i.
 Luego se debe tener la CLAVE RECAPTCHA para que funcione
