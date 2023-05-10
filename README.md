@@ -21,4 +21,4 @@ Recuperación de contraseña
 
 
 El Backend fue desarrollado en Node.js, Express.js y con base de datos PostgreSQL. 
-Proximamente subire el Backend.
+Proximamente subire el Backend
